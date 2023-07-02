@@ -27,3 +27,11 @@ body {
     height: 100vh;
     /*vai usar 100% da tela*/
 }
+
+.container__botão {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+}
