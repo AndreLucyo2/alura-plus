@@ -47,7 +47,7 @@ body {
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
-    margin-bottom: 1em;
+    margin: 1em 3em 1em 3em;
 }
 
 .botão_secuncario {
