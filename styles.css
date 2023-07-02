@@ -73,15 +73,18 @@ body {
     padding: 2em;
 }
 
+.secuncario {
+    align-items: center;
+    text-align: center;
+    margin: 0 10em;
+}
+
 .secundario__imagem {
     width: 80%;
     margin-left: 5em;
 }
 
-.secuncario {
-    align-items: center;
-    margin: 0 10em;
-}
+
 
 .descricao__titulo {
     font-weight: 700;
