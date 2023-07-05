@@ -171,3 +171,15 @@ body {
     background-color: var(--botao-azul-efeito);
     border-color: var(--botao-azul);
 }
+
+/* Personalizando a barra de rolagem: */
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-track{
+    background-color: var(--botao-azul);
+}
+::-webkit-scrollbar-thumb{
+    background-color:var(--branco-principal);    
+    border-radius: 3px;
+}
